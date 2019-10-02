@@ -2,6 +2,7 @@
 # ( Project Diva Dreamy Theater 2nd/Extend English patch )
 
 English patch for Project Diva Dreamy Theater 2nd/Extend
+
 This patch is made for Dreamy Theater version 01.01, if you are using another version it may not work for you.
 
 <h1>What has been done:</h1><br>
